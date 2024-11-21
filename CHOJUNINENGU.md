@@ -1,4 +1,3 @@
-## Sample answer
 1: A and C
 2: 
 | BIOS     |   UEFI   |
