@@ -80,5 +80,5 @@ a job that runs  a backup scritp  at every midnight " ``` 0 * * * *  backup.sh  
 17: ______________________
 18: the /etc/fstab is a file systemtable
 
-    
+     
    
